@@ -166,16 +166,8 @@ Les temps ci-dessous sont indicatifs et doivent être ajustés avec les temps r�
 ![HomePage](homePage-mobile.jpeg)
 ![CandidatePage](candidatePage-desktop.jpeg)
 ![CandidatePage](candidatePage-mobile.jpeg)
-A
 
 
 
 
-## Commandes utiles
 
-```bash
-npm run build
-npm run preview
-```
-
-`npm run build` vérifie que l'application peut être compilée pour la production.
