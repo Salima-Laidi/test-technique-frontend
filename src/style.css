@@ -1,1 +1,58 @@
 @import "tailwindcss";
+
+@theme{
+  /* --color-primary: #142D7A; */
+  --color-primary-blue: #D5DDF3;
+  --color-purple: #6657F5;
+  --color-white: #FFFFFF;
+  --color-light-blue: #F0F3FF;
+  /* --color-background: #F8FAFF; */
+  /* --color-border: #E7ECF8; */
+  /* text colors */
+  --color-main: #122866;
+  --color-secondary: #6680C5;
+  --color-muted: #8A9BC5;
+  /* statut */
+  --color-attente:#94a3b8;
+  --color-Entretien-RH: #3b82f6;
+  --color-Entretien-Technique: #f59e0b;
+  --color-Accepte: #10b981;
+  --color-Refuse: #ef4444;
+
+}
+/* general styling */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* overflow-x: hidden; */
+  background: #F0F3FF;
+  font-family: poppins, sans-serif;
+}
+
+
+/* colors */
+:root{
+    --primary: #142D7A;
+    --primary-blue: #5B7FD3;
+    --purple: #6657F5;
+    --background: #F8FAFF;
+    --white: #FFFFFF;
+    --light-blue: #F0F3FF;
+    --border: #E7ECF8;
+    
+    --text: #122866;
+    --text-secondary: #6680C5;
+    --text-muted: #8A9BC5;
+    /* statut */
+    --attente:#94a3b8;
+    --Entretien-RH: #3b82f6;
+    --Entretien-Technique: #f59e0b;
+    --Accepté: #10b981;
+    --Refusé: #ef4444;
+
+}
+
+
+
