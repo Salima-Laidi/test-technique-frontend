@@ -10,7 +10,7 @@ export const useStore = defineStore('store',()=>{
     const totaleItems = ref(0)
     const page = ref(1)
     // const link = "http://localhost:3000"
-    const link = "https://test-technique-frontend.onrender.com/"
+    const link = "https://test-technique-frontend.onrender.com"
     const limit = 5
     const totale = ref(0)
     const selectedSkill = ref("")
